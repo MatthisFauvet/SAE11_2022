@@ -1,0 +1,17 @@
+Cahier des charges :
+
+- Menu 
+- Trois thème de memory
+    -> 1. distributeur iut 
+    -> 2. Même
+    -> 3. Dead B 
+
+- Trois dificultées :
+    -> Easy : 3x4
+    -> Normal : 4*4
+    -> Hard : 6*4
+
+ - Easter egg : 
+    -> ***Ajouter un screamer sur le menu ***
+
+     
